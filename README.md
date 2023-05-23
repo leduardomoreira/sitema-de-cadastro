@@ -1,1 +1,1 @@
-TESTE
+Adicionado app.js
